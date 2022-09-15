@@ -1,14 +1,14 @@
-Algorand School
+FutureBEAT: Algorand
 
 2022
 
+Presented by @SimonFuture2
 
+created by:
 Cosimo Bassi
 Solutions Architect at Algorand Inc.
-
 cosimo.bassi@algorand.com
-
-Open Source: github.com/cusma/algorand-school
+github.com/cusma/algorand-school
 
 Our journey today:
 
